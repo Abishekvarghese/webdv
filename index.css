@@ -1,0 +1,39 @@
+.head {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    stroke: aliceblue;
+    text-shadow: 2px white;
+    font-size: larger;
+}
+body {
+    background-image: url("Untitled (2).png");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.details {
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+.reg {
+    text-align: center;
+    font-size: medium;
+}
+a {
+    color: white;
+    font-size: large;
+}
+p {
+    font-size: medium;
+    color: white;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+p1 {
+    font-style:oblique;
+    font-size: large;
+}
